@@ -22,22 +22,23 @@ Cependant les utilisateurs se posent de plus en plus de questions sur la protect
 Pour répondre à cette problématique, nous allons vous présenter pendant cet exposé, les moyens qui existent, ainsi que leurs limites.
     
 ### Plan
-1. 
-    1.
-    2.
-2.
-    1.
-    2.
-3.
-    1.
-    2.
+1. Pour qui ? 
+    1. Les Ménaces
+    2. Pourquoi ?
+2. Comments
+    1. Rappels
+    2. Outils
+3. Les Limites
+    1. légales
+    2. techniques
+    3. éthiques
 
 ### todo
 - [ ] chiffrement: schema définition types:
     + [ ] symetrique
     + [ ] asymetrique
-    + [ ] bout-à-bout (TLS)
-    + [ ] point-à-point ( OTR, GPG, ...)
+    + [ ] bout-à-bout (OTR, GPG, ... )
+    + [ ] point-à-point ( ~SSL~ TLS)
 
 - [ ] qui en a besoin, pourquoi et comment ?
 - [ ] législation sur le chiffrement
